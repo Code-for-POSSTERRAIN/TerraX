@@ -1,0 +1,164 @@
+{
+    "asphalt": {
+        "coarse_label": "asphalt",
+        "label_id": 1,
+        "fine_labels": [
+            "dry",
+            "wet",
+            "smooth",
+            "slight",
+            "cracked",
+            "uneven"
+        ]
+    },
+    "brick": {
+        "coarse_label": "brick",
+        "label_id": 2,
+        "fine_labels": [
+            "dry",
+            "sparse",
+            "uneven",
+            "rough",
+            "texture",
+            "slight"
+        ]
+    },
+    "coated floor": {
+        "coarse_label": "coated floor",
+        "label_id": 3,
+        "fine_labels": [
+            "smooth",
+            "slippery",
+            "flat",
+            "hard",
+            "polished"
+        ]
+    },
+    "grass": {
+        "coarse_label": "grass",
+        "label_id": 4,
+        "fine_labels": [
+            "uneven",
+            "sparse",
+            "dry",
+            "wet",
+            "rough",
+            "lush"
+        ]
+    },
+    "gravel": {
+        "coarse_label": "gravel",
+        "label_id": 5,
+        "fine_labels": [
+            "dry",
+            "uneven",
+            "sparse",
+            "rough",
+            "loose",
+            "coverage"
+        ]
+    },
+    "pavement": {
+        "coarse_label": "pavement",
+        "label_id": 6,
+        "fine_labels": [
+            "smooth",
+            "flat",
+            "dry",
+            "hard",
+            "cracked"
+        ]
+    },
+    "sand": {
+        "coarse_label": "sand",
+        "label_id": 7,
+        "fine_labels": [
+            "dry",
+            "sparse",
+            "uneven",
+            "smooth",
+            "coverage",
+            "loose"
+        ]
+    },
+    "concrete": {
+        "coarse_label": "concrete",
+        "label_id": 8,
+        "fine_labels": [
+            "dry",
+            "smooth",
+            "slight",
+            "cracked",
+            "sparse",
+            "uneven"
+        ]
+    },
+    "mud": {
+        "coarse_label": "mud",
+        "label_id": 9,
+        "fine_labels": [
+            "dry",
+            "wet",
+            "water",
+            "soft",
+            "sticky",
+            "slippery",
+            "uneven"
+        ]
+    },
+    "snow": {
+        "coarse_label": "snow",
+        "label_id": 10,
+        "fine_labels": [
+            "fresh",
+            "melted",
+            "packed",
+            "slippery"
+        ]
+    },
+    "ice": {
+        "coarse_label": "ice",
+        "label_id": 11,
+        "fine_labels": [
+            "slippery",
+            "smooth",
+            "thin"
+        ]
+    },
+    "flagstone": {
+        "coarse_label": "flagstone",
+        "label_id": 12,
+        "fine_labels": [
+            "dry",
+            "uneven",
+            "smooth",
+            "sparse",
+            "rough",
+            "texture"
+        ]
+    },
+    "synthetic track": {
+        "coarse_label": "synthetic track",
+        "label_id": 13,
+        "fine_labels": [
+            "smooth",
+            "dry",
+            "texture",
+            "sparse",
+            "coverage",
+            "slight"
+        ]
+    },
+    "board": {
+        "coarse_label": "board",
+        "label_id": 14,
+        "fine_labels": [
+            "dry",
+            "smooth",
+            "sparse",
+            "slight",
+            "coverage",
+            "texture"
+        ]
+    }
+}
